@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RYder Hallorans programing portfolio 
 
 You can use the [editor on GitHub](https://github.com/RyderHalloran/ProgramingportfolioA2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
